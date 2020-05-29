@@ -1,3 +1,13 @@
+/* geral */
+@font-face {
+    font-family: RobotoSemi;
+    src: url('../font/RobotoSlab-Bold.ttf');
+}
+body {
+    font-family: RobotoSemi;
+}
+
+/* menu */
 .icones-menu {
     margin-right: 100px;
 }
@@ -10,12 +20,55 @@
     background-color: #3576ed;
 }
 
+/* sections */
+.section1 {
+    height: 350px;
+}
+
+.section2 {
+    background-color: #3576ed;
+    height: 350px;
+}
+
+.section3 {
+    height: 300px;
+}
+
+.section4 {
+    background-color: #eeeeee;
+    height: 350px;
+}
+
+.section5 {
+    background-color: #3576ed;
+    height: 250px;
+}
+
+.conteudo1 {
+    padding-top: 80px;
+}
+
+.conteudo2 {
+    padding-top: 80px;
+    color: #ffffff;
+}
+
+.conteudo3 {
+    padding-top: 80px;
+}
+
+.conteudo4 {
+    padding-top: 80px;
+}
+
+.conteudo5 {
+    padding-top: 80px;
+}
+
+.rodape {
+    padding: 20px;
+}
 
 
-@font-face {
-    font-family: RobotoSemi;
-    src: url('../font/RobotoSlab-Bold.ttf');
-}
-body {
-    font-family: RobotoSemi;
-}
+
+
