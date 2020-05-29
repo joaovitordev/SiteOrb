@@ -1,0 +1,21 @@
+.icones-menu {
+    margin-right: 100px;
+}
+
+.icones-menu > span {
+    padding: 9px;
+}
+
+.navbar {
+    background-color: #3576ed;
+}
+
+
+
+@font-face {
+    font-family: RobotoSemi;
+    src: url('../font/RobotoSlab-Bold.ttf');
+}
+body {
+    font-family: RobotoSemi;
+}
