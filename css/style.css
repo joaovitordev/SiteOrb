@@ -32,10 +32,26 @@ img {
 /* rodapé */
 .rodape {
     padding: 20px;
+    background-color: #3576ed;
+    color: #ffffff;
 }
 
 .section-azul {
     background-color: #3576ed;
     color: #ffffff;
     padding: 25px;
+}
+
+.section-cinza {
+    background-color: #eee;
+    padding: 25px;
+}
+
+.section3 {
+    margin: 20px;
+}
+
+.btn-whatsapp {
+    background-color: #3576ed;
+    color: #ffffff;
 }
